@@ -1,0 +1,5 @@
+trade-mind-bot/
+│── main.py
+│── requirements.txt
+│── Procfile
+│── runtime.txt
